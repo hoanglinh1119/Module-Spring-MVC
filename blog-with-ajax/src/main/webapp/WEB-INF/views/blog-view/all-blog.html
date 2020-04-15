@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Create new Blog</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#newBlog').submit(function(event) {
+                var name = $('#name').val();
+                var content = $('#content').val();
+                var time = $('#time').val();
+                var title=$('#title').val();
+                var json = { "name" : name, "content" : content, "time": time,"title":title};
+                $.ajax({
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    },
+                    type : "POST",
+                    data: JSON.stringify(json),
+                    url: "/blog/createnewBlog",
+                    success: function(blog) {
+                        var respContent = "";
+                        respContent += "<span class='success'>Blog was created:[ ";
+                        respContent += blog.name + " : ";
+                        respContent += blog.content + " : " ;
+                        respContent += blog.time + " : " ;
+                        respContent += blog.title + "]</span>"
+                        $("#sBlogFromResponse").html(respContent);
+                    }
+                });
+                event.preventDefault();
+            });
+        });
+    </script>
+</head>
+<body>
+<div id="container">
+    <h1>All Blog</h1>
+    <a th:href="@{/blog/create}">Create</a>
+    <div>
+        <p>Here you can see a list of Blog:</p>
+        <div id="sBlogFromResponse"></div>
+    </div>
+    <table border="1px" cellpadding="0" cellspacing="0">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Content</th>
+            <th>Time</th>
+            <th>Title</th>
+        </tr>
+        </thead>
+        <tbody>
+        <th:block th:each="blog : ${blog}">
+            <tr>
+                <td th:text="${blog.name}"></td>
+                <td th:text="${blog.content}"></td>
+                <td th:text="${blog.time}"></td>
+                <td th:text="${blog.title}"></td>
+                <td>
+                    <a th:href="@{/blog/edit/__${blog.id}__}">Edit</a><br/>
+                    <a th:href="@{/blog/delete/__${blog.id}__}">Delete</a><br/>
+                </td>
+            </tr>
+        </th:block>
+        </tbody>
+    </table>
+    <a th:href="@{/index}">Home page</a>
+</div>
+</body>
+</html>
