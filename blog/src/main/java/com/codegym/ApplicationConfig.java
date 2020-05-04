@@ -161,5 +161,4 @@ public class ApplicationConfig extends WebMvcConfigurerAdapter implements Applic
     public AuthenticationSuccessHandler handler(){
         return new Hoanglinh();
    }
-
 }

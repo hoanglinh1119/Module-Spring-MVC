@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f2fccbd-c0db-43e5-b42b-cf606a93d2f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/modules/CASESTUDY-MD4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/configuration/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/configuration/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/configuration/WebSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/configuration/WebSecurityRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/controller/Product/ProductAjax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/controller/Product/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/controller/User/SercurityController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/controller/User/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/Customer/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/Product/Pagination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/Product/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/Product/ProductForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/Product/ProductHasAmount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/User/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/model/User/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/repositories/Product/General.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/repositories/Product/IProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/repositories/User/GeneralRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/repositories/User/IUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/repositories/User/Impl/UserRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/service/Product/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/service/Product/Impl/ProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/service/User/GeneralService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/service/User/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/service/User/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/libs/CASESTUDY-MD4-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/configuration/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/configuration/WebSecurityRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/controller/Product/ProductAjax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/controller/Product/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/controller/User/SercurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/controller/User/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Bill/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Bill/BillDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Product/Pagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Product/ProductForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/Product/ProductHasAmount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/User/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/model/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/repositories/Product/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/repositories/Product/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/repositories/User/GeneralRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/repositories/User/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/repositories/User/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/service/Product/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/service/Product/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/service/User/GeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/service/User/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/service/User/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/css/styleLogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/css/styleLogin.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/images/signin-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/images/signup-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/common/extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/common/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/common/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/common/minxi.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/common/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/layouts/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/layouts/responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/vendor/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/FormSignInUp/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/cssOld/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/cssOld/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/cssOld/jquery-ui1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/cssOld/popuo-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/cssOld/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/etalage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/fwslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/megamenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/nivo-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/css/zoome-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/a-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/a-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/a-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/arrow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/arrow2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/b-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/cart.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/cart2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/cart2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/cart3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/down-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/f-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/f-tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/feature-pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/feature-pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/feature-pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/feature-pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/header_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/left-banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/list_marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/magnify-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/new-pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/new-pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/new-pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/new-pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/quotes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/s9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/t-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/t-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/t-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/images/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/css3-mediaqueries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/fwslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.easydropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.etalage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.jscrollpane.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery.nivo.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/jquery1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/megamenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/slides.min.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/properties/js/zoome-e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/FormLoginUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/change-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/change-pass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/create-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/delivery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/edit-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/layout-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/mens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/user-manage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/w3layouts-license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/WEB-INF/views/web/views/womens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/caseStudy4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/ApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/SercurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/SercurityInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/controller/CartController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/model/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/model/Drinks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/model/DrinksForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/CartRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/DrinkRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/GeneralRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/Impl/CartRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/Impl/DrinkRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/Impl/UserRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/CartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/DrinkService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/GeneralService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/Impl/CartServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/Impl/DrinkServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/hoanglinh/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/configuration/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/configuration/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/configuration/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/configuration/SecurityInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/model/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/model/DrinksForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/model/user/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/model/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/DrinkRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/GeneralRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/Impl/CartRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/Impl/DrinkRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/DrinkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/GeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/Impl/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/Impl/DrinkServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hoanglinh/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/css/styleLogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/css/styleLogin.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-300italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-500italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-600.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-700italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-800italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/poppins-v5-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/images/signin-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/images/signup-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/common/extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/common/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/common/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/common/minxi.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/common/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/layouts/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/layouts/responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/FormSignInUp/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/cssOld/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/cssOld/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/cssOld/jquery-ui1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/cssOld/popuo-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/cssOld/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/etalage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/fwslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/megamenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/nivo-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/css/zoome-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/Screenshot from 2020-04-07 15-47-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/Screenshot from 2020-04-21 05-55-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/a-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/a-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/a-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/arrow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/arrow2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/b-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/bimbim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/bimbim3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/cart.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/cart2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/cart2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/cart3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/down-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/f-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/f-tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/feature-pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/feature-pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/feature-pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/feature-pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/header_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/img-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/left-banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/list_marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/magnify-alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/new-pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/new-pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/new-pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/new-pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/quotes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/s9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/t-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/t-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/t-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/images/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/css3-mediaqueries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/fwslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.easydropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.etalage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.jscrollpane.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery.nivo.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/jquery1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/megamenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/slides.min.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/properties/js/zoome-e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/FormLoginUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/autocomplete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/change-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/change-pass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/create-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/delivery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/edit-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/layout-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/mens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/search-admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/search-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/user-manage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/w3layouts-license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web/views/womens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/build/classes/java/main/com/hoanglinh/Appconfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/build/classes/java/main/com/hoanglinh/Appinitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/build/classes/java/main/com/hoanglinh/controller/EmailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/build/libs/save_email-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/java/com/hoanglinh/Appconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/java/com/hoanglinh/Appinitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/java/com/hoanglinh/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/WEB-INF/views/en_size_100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/WEB-INF/views/en_size_25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/WEB-INF/views/en_size_50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/WEB-INF/views/vn_size_100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/WEB-INF/views/vn_size_25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/WEB-INF/views/vn_size_50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save_email/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/ApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/SecurityWebApplicationInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/controller/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/model/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/repository/BlogRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/repository/BlogRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/service/BlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/classes/java/main/com/codegym/service/BlogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/libs/blog-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/caseStudy4-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/resources/main/message.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/resources/main/message_ja.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/.gradle/6.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/resources/main/message_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/resources/main/messager_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/build/tmp/war/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../CASESTUDY-MD4-master/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/src/main/java/com/codegym/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ah6WS6E65yxWIWQq02ivlNLZ3b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring MVC\caseStudy4\src\main\webapp\WEB-INF\web" />
+      <recent name="D:\Spring MVC\caseStudy4\src\main\webapp\WEB-INF\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spring MVC\caseStudy4\src\main\webapp\WEB-INF\web" />
+      <recent name="D:\Spring MVC\caseStudy4\src\main\webapp\WEB-INF\template\user" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.hoanglinh : caseStudy4-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_caseStudy4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50570" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.hoanglinh : caseStudy4-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f2fccbd-c0db-43e5-b42b-cf606a93d2f5" name="Default Changelist" comment="" />
+      <created>1587175509157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587175509157</updated>
+      <workItem from="1587175513204" duration="24027000" />
+      <workItem from="1587537392102" duration="2242000" />
+      <workItem from="1587697281039" duration="62000" />
+      <workItem from="1587697487368" duration="19000" />
+      <workItem from="1587697728157" duration="83000" />
+      <workItem from="1587698279607" duration="156000" />
+      <workItem from="1587720320878" duration="2678000" />
+      <workItem from="1587949701541" duration="12072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Project_Structure" timestamp="1587476860507">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1587476860507" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587698433050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587698433049" />
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1587960443612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1587960443612" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587958795276">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587958795276" />
+    <state width="918" height="2" key="GridCell.Tab.0.bottom" timestamp="1587479409052">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="918" height="2" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587479409052" />
+    <state width="918" height="2" key="GridCell.Tab.0.center" timestamp="1587479409052">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="918" height="2" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587479409052" />
+    <state width="918" height="2" key="GridCell.Tab.0.left" timestamp="1587479409052">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="918" height="2" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587479409052" />
+    <state width="918" height="2" key="GridCell.Tab.0.right" timestamp="1587479409052">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="918" height="2" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587479409052" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587698405529">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587698405529" />
+    <state x="168" y="120" width="1200" height="596" key="dock-window-1" timestamp="1587178507187">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="168" y="120" width="1200" height="596" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1587178507187" />
+    <state x="209" y="38" key="new project wizard" timestamp="1587950640037">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1587950640037" />
+  </component>
+</project>
